@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated data (reproduce with the generator)
+data/output/
+
+# Secrets
+.env
+*.pem
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
